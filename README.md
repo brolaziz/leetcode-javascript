@@ -1,4 +1,4 @@
-# LeetCode JavaScript Journey
+# My LeetCode Journey
 
 A collection of my JavaScript solutions as I practice problem solving and algorithms on LeetCode.
 
