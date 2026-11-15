@@ -2,7 +2,7 @@
 
 A collection of my JavaScript solutions as I practice problem solving and algorithms on LeetCode.
 
-**Progress: 4 / 4 problems**
+**Progress: 5 / 5 problems**
 
 | # | Problem | Solution |
 |---|---|---|
@@ -10,6 +10,7 @@ A collection of my JavaScript solutions as I practice problem solving and algori
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](0009-palindrome-number.js) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](0013-roman-to-integer.js) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](0014-longest-common-prefix.js) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](0021-merge-two-sorted-lists.js) |
 
 ## Usage
 
